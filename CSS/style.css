@@ -1,0 +1,30 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {display: inline-block;width: 25px; text-shadow: 3px 2px 5px rgb(255, 255, 255);}
+.z{width: 40px;color:rgb(132, 0, 130)}
+.u{width: 45px;color:rgb(0, 255,0)}
+.m{width: 55px;color:rgb(255, 171, 244)}
+.i{width: 13px; color: rgb(153, 51, 255)}
+.j{width: 35px;color:rgb(163, 244, 255)}
+.t{width: 20px; color: rgb(255, 0, 230)}
+.v{color: rgb(0, 255, 255)}
+.a{color:rgb(255, 200,0);width: 20px;}
+.d{color:rgb(0,0,255)}
+.n{color:rgb(0, 200, 93)}
+.e{color:rgb(255, 120,0);width: 15px;}
+.n2{color:rgb(0, 162, 255)}
+.a2{color:rgb(208, 255, 0);width: 20px;}
+.r{color:rgb(225, 0, 255)}
+.o{color:rgb(151, 121, 12)}
+.d2{color:rgb(255, 0, 0)}
+.e2{color:rgb(184, 197, 0)}
+.n3{color:rgb(188, 94, 94)}
+.n4{color:rgb(0, 255, 162)}
+.ya{color:rgb(111, 0, 255)}
+h2{color:rgb(255, 0, 128);text-shadow: 3px 2px 5px rgb(255, 255, 255); text-align: center;}
+.pz{text-align: center;}
+body{background-image: url(https://fons.pibig.info/uploads/posts/2023-06/1685621638_fons-pibig-info-p-zadnii-fon-serdechki-vkontakte-17.jpg); 
+height: auto;width: auto;}
+h1{color: red;transition: 3s;}
